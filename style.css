@@ -4706,9 +4706,9 @@ body.rtl .elementor-22627 .elementor-element.elementor-element-66b3252 {
 }
 
 .elementor-button-text {
-    color: white;
+    color: white !important;
 }
 
 .elementor-button-text:hover {
-    color: #04539e;
+    color: #04539e !important;
 }
