@@ -4704,3 +4704,11 @@ body.rtl .elementor-22627 .elementor-element.elementor-element-66b3252 {
 .navbar-fixed-show {
     display: none !important;
 }
+
+.elementor-button-text {
+    color: white;
+}
+
+.elementor-button-text:hover {
+    color: #04539e;
+}
